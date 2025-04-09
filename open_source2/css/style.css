@@ -362,7 +362,7 @@ body.fixed {
 /* slider */
 .slider {
 	height: 100vh;
-	background-image: linear-gradient(50deg,#002fff,#83e8fe,#a600fa,#002fff);
+	background-image: url(../images/backgroun.jpg)
 }
 .slider .keytext {
 	position: absolute;
