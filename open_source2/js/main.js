@@ -6,6 +6,8 @@ $(function(){
 			if(isMobile != false){
 				isMobile=false;
 
+				$("nav > ul > li ul").removeAttr("style");
+
 				if($(".tab").hasClass("close") == true || $("nav > ul > li").hasClass("active") == true){
 					$("nav > ul > li").each(function(index, item){
 						let $item=$(item);
