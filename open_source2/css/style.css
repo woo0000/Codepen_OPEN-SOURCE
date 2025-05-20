@@ -362,7 +362,7 @@ body.fixed {
 /* slider */
 .slider {
 	height: 100vh;
-	background-image: url(../images/backgroun.jpg)
+	background-image: url(../images/background.jpg)
 }
 .slider .keytext {
 	position: absolute;
